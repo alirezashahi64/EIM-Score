@@ -201,14 +201,12 @@ pdbbind_v2016_general-set/
 
 ---
 
-## 📜 License
 
-Specify your preferred license (e.g., MIT)
 
 ---
 
 ## ✍️ Citation
 
-If you use this repository, please cite the corresponding EIM methodology paper (to be added).
+(to be added).
 
 ---
